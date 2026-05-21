@@ -1,10 +1,10 @@
-module github.com/collinpfeifer/beluga-ext-skills
+module github.com/aspectrr/beluga-ext-skills
 
 go 1.25.0
 
-replace github.com/collinpfeifer/beluga => ../beluga
+replace github.com/aspectrr/beluga => ../beluga
 
-require github.com/collinpfeifer/beluga v0.0.0-00010101000000-000000000000
+require github.com/aspectrr/beluga v0.0.0-00010101000000-000000000000
 
 require (
 	github.com/jackc/pgpassfile v1.0.0 // indirect

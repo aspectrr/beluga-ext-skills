@@ -10,7 +10,7 @@ File-based evolving skills for Beluga. Skills are learned patterns from past ses
 ## Install
 
 ```bash
-beluga extend install github.com/collinpfeifer/beluga-ext-skills
+beluga extend install github.com/aspectrr/beluga-ext-skills
 ```
 
 ## Config
@@ -33,5 +33,5 @@ extensions:
 Uses a `replace` directive in `go.mod` pointing to the local Beluga repo:
 
 ```
-replace github.com/collinpfeifer/beluga => ../beluga
+replace github.com/aspectrr/beluga => ../beluga
 ```
