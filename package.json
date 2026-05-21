@@ -1,0 +1,12 @@
+{
+  "name": "@beluga/ext-skills",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.ts",
+  "dependencies": {
+    "@beluga/sdk": "file:../beluga/packages/sdk"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

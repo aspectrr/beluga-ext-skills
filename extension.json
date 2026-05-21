@@ -1,0 +1,7 @@
+{
+  "name": "evolving_skills",
+  "entrypoint": "index.ts",
+  "version": "0.1.0",
+  "description": "File-based knowledge persistence. Agents save learned patterns to .beluga/skills/ as markdown and search them later.",
+  "config": []
+}
